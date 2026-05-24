@@ -1,0 +1,1 @@
+An Employee Management System built using Java that helps manage employee details in an organized and centralized database. The system provides functionalities such as adding new employees, viewing records, updating information, and deleting employee data when required.
